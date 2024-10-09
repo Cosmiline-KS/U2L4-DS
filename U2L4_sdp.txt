@@ -1,0 +1,9 @@
+1. They need to be able to line up correct in the size of the matix. otherwise there is no solution
+
+2. basically the same thing as the first but you just need to be careful with negatives. 
+
+3.multiply the first by the height which is len and then for the second matix you use len inside one of the nested lists to get the length
+
+4. the outer loop is the height(just len of the list) and the length(len inside one of the lists in the nested list)
+
+5.
